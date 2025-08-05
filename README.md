@@ -1,6 +1,6 @@
 # Sistema de Login con jBCrypt
 
-**Creado por:** Joel Esperanza
+**Creado por:** Hunterosmo
 
 ## Credenciales de Acceso
 - **Usuario:** admin
